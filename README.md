@@ -10,9 +10,10 @@ Install new dependencie in your package-json
 
 `npm install gh-pages`
 
-add the link of the future deployement like this :
+add the link of the future deployement in your package-json like this :
 
 `http://<github-username>.github.io/<repository-name>`
+(i.e: `"homepage": "http://dylan-williamson.github.io/example-react-app",`)
   
 Add new scripts in your package-json
   
