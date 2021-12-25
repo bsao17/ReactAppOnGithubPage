@@ -16,12 +16,12 @@ add the link of the future deployement like this :
   
 Add new scripts in your package-json
   
-'''predeploy": "npm run build'''
-'''deploy": "gh-pages -d build'''
+"predeploy": "npm run build"
+"deploy": "gh-pages -d build"
   
 push all commits, and run deploy script,
   
-"""npm run deploy"""
+"npm run deploy"
   
-## For more informations, here the path with the all instructions -> https://medium.com/swlh/create-deploy-host-react-app-for-free-github-pages-c1f41bed6497
+## For more informations, here the path with the all instructions -> `https://medium.com/swlh/create-deploy-host-react-app-for-free-github-pages-c1f41bed6497`
   
