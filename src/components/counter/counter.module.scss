@@ -1,0 +1,31 @@
+#screen{
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#title{
+  text-shadow: white 0 0 5px;
+}
+#title:hover{
+  text-shadow: white 0 0 5px;
+}
+.buttonMore{
+  background: #03f823;
+  border: solid white 2px;
+  padding: 15px;
+  margin: 2%;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+.buttonLess{
+  background: #f60505;
+  border: solid white 2px;
+  padding: 15px;
+  margin: 2%;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 1.5rem;
+}

@@ -1,0 +1,8 @@
+{
+  "short_name": "Counter-redux",
+  "name": "Counter with Readux and React-redux",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
