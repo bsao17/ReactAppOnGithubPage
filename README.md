@@ -8,20 +8,20 @@ Have a React app, NodeJs, npm and a github repository
 
 Install new dependencie in your package-json
 
-"npm install gh-pages"
+`npm install gh-pages`
 
 add the link of the future deployement like this :
 
-"http://<github-username>.github.io/<repository-name>"
+`http://<github-username>.github.io/<repository-name>`
   
 Add new scripts in your package-json
   
-"predeploy": "npm run build"
-"deploy": "gh-pages -d build"
+`predeploy": "npm run build`
+`deploy": "gh-pages -d build`
   
 push all commits, and run deploy script,
   
-"npm run deploy"
+`npm run deploy`
   
 ## For more informations, here the path with the all instructions -> `https://medium.com/swlh/create-deploy-host-react-app-for-free-github-pages-c1f41bed6497`
   
