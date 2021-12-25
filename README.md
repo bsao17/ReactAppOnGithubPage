@@ -2,9 +2,7 @@
 
 ## prerequisite
 
-Have a React app,
-Have NodeJs and npm
-Have a github repository
+Have a React app, NodeJs and npm and a github repository
 
 ## Then
 
