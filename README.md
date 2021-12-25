@@ -23,5 +23,6 @@ push all commits, and run deploy script,
   
 `npm run deploy`
   
-## For more informations, here the path with the all instructions -> `https://medium.com/swlh/create-deploy-host-react-app-for-free-github-pages-c1f41bed6497`
+## For more informations, here the path with the all instructions:
+https://medium.com/swlh/create-deploy-host-react-app-for-free-github-pages-c1f41bed6497
   
