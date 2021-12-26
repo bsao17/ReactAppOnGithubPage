@@ -6,7 +6,7 @@ Have a React app, NodeJs, npm and a github repository
 
 ## Then
 
-Install new dependencie in your package-json
+Install new dependency in your package-json
 
 `npm install gh-pages`
 
