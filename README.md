@@ -12,7 +12,7 @@ Install new dependency in your package-json
 
 add the link of the future deployement in your package-json like this :
 
-`http://<github-username>.github.io/<repository-name>`
+`http://<github-username>.github.io/<repository-name>`<br/>
 (i.e: `"homepage": "http://bsao17.github.io/example-react-app",`)
   
 Add new scripts in your package-json
