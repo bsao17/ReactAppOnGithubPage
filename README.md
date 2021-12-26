@@ -17,7 +17,7 @@ add the link of the future deployement in your package-json like this :
   
 Add new scripts in your package-json
   
-`predeploy": "npm run build`
+`predeploy": "npm run build \n`
 `deploy": "gh-pages -d build`
   
 push all commits, and run deploy script,
