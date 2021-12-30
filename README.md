@@ -1,4 +1,4 @@
-# Testing deploy React app on Github-page
+# Deploying a React app on Github-page
 
 ## prerequisite
 
@@ -23,6 +23,8 @@ Add new scripts in your package-json
 push all commits, and run deploy script,
   
 `npm run deploy`
+
+###It's deployed ...
   
 ## For more informations, here the path with complete instructions:
 https://medium.com/swlh/create-deploy-host-react-app-for-free-github-pages-c1f41bed6497
